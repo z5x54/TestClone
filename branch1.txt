@@ -1,1 +1,2 @@
 This is the first text in branch1；
+merge into master
